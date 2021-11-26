@@ -1,0 +1,8 @@
+{
+  "aliases": {
+    "karate": {
+      "script-ref": "com.intuit.karate:karate-core:1.1.0"
+    }
+  },
+  "templates": {}
+}
