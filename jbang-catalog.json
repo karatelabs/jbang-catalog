@@ -1,7 +1,7 @@
 {
   "aliases": {
     "karate": {
-      "script-ref": "com.intuit.karate:karate-core:1.2.0.RC1"
+      "script-ref": "com.intuit.karate:karate-core:1.4.0.RC3"
     }
   },
   "templates": {}
