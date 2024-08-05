@@ -1,7 +1,7 @@
 {
   "aliases": {
     "karate": {
-      "script-ref": "io.karatelabs:karate-core:1.5.0.RC3:all"
+      "script-ref": "io.karatelabs:karate-core:1.5.0:all"
     }
   },
   "templates": {}
